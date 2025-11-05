@@ -49,3 +49,5 @@ jobs:
           echo "wget https://github.com/carlospolop/PEASS-ng/releases/download/20231126-faf74148/linpeas.sh"
           echo "This would scan for internal vulnerabilities!"
 
+
+
